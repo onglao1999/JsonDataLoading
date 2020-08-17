@@ -1,0 +1,995 @@
+{
+  "Top": [
+    {
+    "id": 1,
+			"name": "Dan Jones",
+		"imageUrl": "https://i.pinimg.com/564x/ab/5f/cb/ab5fcb83b4c30d575936f2388711dc77.jpg",
+		"audioUrl": "http://yoga.trivials.com/uploads/episode/215/5e3db1db3a9a0.mp3",
+		"duration": "00:32:52",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "Each night, embark on a guided journey into sleep and relaxation.   "
+	  },
+	  {
+    "id": 2,
+			"name": "Christian",
+		"imageUrl": "https://thelisovetzpixelz.tumblr.com/image/184202819788",
+		"audioUrl": "http://yoga.trivials.com/uploads/episode/214/5e39c17476da6.mp3",
+		"duration": "00:35:22",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/5/59935316ebefc.mp3",
+		"description": "Powerfully relaxing meditations designed to help you fall asleep quickly and easily.  "
+	  },
+	  {
+    "id": 3,
+			"name": "Michelle Hotaling",
+		"imageUrl": "https://i.pinimg.com/originals/5d/5d/3d/5d5d3d2a0b72d62153430ec4b7b249ff.jpg",
+		"audioUrl": "http://yoga.trivials.com/uploads/episode/213/5e3492a22a367.mp3",
+		"duration": "00:40:29",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/8/599354e32b971.mp3",
+		"description": "A growing collection of sleep inducing stories and essays. "
+	  },
+	  {
+    "id": 4,
+			"name": "Slumber",
+		"imageUrl": "https://image.freepik.com/free-vector/cute-childish-cartoon-baby-moon-crown-with-star_86629-299.jpg",
+		"audioUrl": "http://yoga.trivials.com/uploads/episode/212/5e30b57261478.mp3",
+		"duration": "01:00:11",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "No voices.  Just sound.\r\n\r\nPick a relaxing soundscape, and layer on some of our standard background effects to create the perfect sonic environment for sleep."
+	  },
+	   {
+    "id": 5,
+			"name": "The French Whisperer",
+		"imageUrl": "https://image.freepik.com/free-vector/childish-print-with-cute-family-elephants-animals-baby-shower_86629-409.jpg",
+		"audioUrl": "http://yoga.trivials.com/uploads/episode/211/5e2b151b582c8.mp3",
+		"duration": "01:11:21",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "Hear amazing stories from history as you fall asleep. "
+	  },
+	  {
+    "id": 6,
+			"name": "Thomas Jones",
+		"imageUrl": "https://image.freepik.com/free-vector/childish-koala-princess-crown-with-cup-tea_86629-302.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/210/5e275b719698d.mp3",
+		"duration": "00:26:26",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/8/599354e32b971.mp3",
+		"description": "A growing collection of sleep inducing stories and essays. "
+	  },
+	  {
+    "id": 7,
+			"name": "Chris Fitton",
+		"imageUrl": "https://kathytemean.files.wordpress.com/2016/08/dandelionpattern.jpg?w=500&h=719",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/209/5e22151ce27ee.mp3",
+		"duration": "00:29:08",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "Powerfully relaxing meditations designed to help you fall asleep quickly and easily.  "
+	  },
+	  {
+	  "id": 8,
+			"name": "Abbe Opher",
+		"imageUrl": "https://data.whicdn.com/images/161565513/original.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/208/5e1e0e79e8f8a.mp3",
+		"duration": "00:24:02",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/6/59d7eddc41405.mp3",
+		"description": "A growing collection of sleep inducing stories and essays. "
+	  },
+	   {
+	  "id": 9,
+			"name": "TK Kellman",
+		"imageUrl": "https://www.postery.com/media/catalog/product/cache/c67bd17d6d67468e1f797392976ffba9/b/e/bear-picking-stars-poster-2.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/204/5e066f660470f.mp3",
+		"duration": "00:34:08",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+"description": "Halvor learns to love New Years when he makes some unexpected friends."
+	  },
+	  {
+	  "id": 10,
+			"name": "Simon",
+		"imageUrl": "https://i.pinimg.com/564x/4d/ef/1f/4def1f1ce67e8f5598cfd25061effa7e.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/206/5e14e262002c0.mp3",
+		"duration": "00:30:03",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/5/59935316ebefc.mp3",
+		"description": "Each color of the rainbow guides you closer to sleep."
+	  },
+	  {
+	  "id": 11,
+			"name": "Nadine Brown",
+		"imageUrl": "https://i.pinimg.com/564x/fc/cd/bd/fccdbd24735e3cf50d5eb2bccb37eb9e.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/203/5dfcf8f800500.mp3",
+		"duration": "00:30:32",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/5/59935316ebefc.mp3",
+		"description": "An elf arrives in a sleepy winter town, where all of the world's toy trains are made."
+	  },
+	  {
+	  "id": 12,
+		"name": "The White Cat",
+		"imageUrl": "https://i.pinimg.com/564x/34/ed/bd/34edbd38443d4e76eb3e3ce029cf6404.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/200/5df1410e2e97c.mp3",
+		"duration": "00:34:28",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "A sleepy re-telling of an old fairytale perfect for every cat lover."
+	  },
+	  {
+	  "id": 13,
+		"name": "The Glacier Express",
+		"imageUrl": "https://i.pinimg.com/564x/b1/a6/4e/b1a64e9184a724d6ead29ef86a4d6dcd.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/199/5dea93ade4d5d.mp3",
+		"duration": "00:24:42",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/5/59935316ebefc.mp3",
+		"description": "Follow Tom as he ventures on one of the world's most beautiful train routes."
+	  },
+	  {
+	  "id": 14,
+		"name": "The First Snow",
+		"imageUrl": "https://cdn11.bigcommerce.com/s-ekl27muf8u/images/stencil/608x608/products/31/20/Amy_Jason_Figure_Watercolor_Painting__29894.1556742890.jpg?c=2",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/198/5de6c36092944.mp3",
+		"duration": "00:29:12",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "Wander through a sleepy village. Relish in pleasant winter memories."
+	  },
+	  {
+	  "id": 15,
+		"name": "The Cornucopia of Plenty",
+		"imageUrl": "https://i.pinimg.com/564x/22/b7/20/22b72013c88ce16fbf9fc3d5d8b463e8.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/197/5ddd809f99b02.mp3",
+		"duration": "00:27:26",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/6/59d7eddc41405.mp3",
+		"description": "A sleepy town comes together for the best harvest festival they’ve ever had."
+	  },
+	  {
+	  	"id": 16,
+		"name": "The Airplane Meditation",
+		"imageUrl": "https://imgc.artprintimages.com/img/print/pink-feathered-2_u-l-f90b1r0.jpg?h=900&p=0&w=900",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/196/5dd84a931b72b.mp3",
+		"duration": "00:21:47",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/5/59935316ebefc.mp3",
+		"description": "A guided meditation to help you relax and sleep on an airplane flight."
+	  },
+	  {
+	  	"id": 17,
+		"name": "The History of Dinosaurs",
+		"imageUrl": "https://i.pinimg.com/564x/44/aa/6f/44aa6f984157ecac4e47dacf5a7481aa.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/195/5dd4202660425.mp3",
+		"duration": "00:50:38",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/8/599354e32b971.mp3",
+		"description": "Relax and fall asleep while exploring a prehistoric land."
+	  },
+	  {
+	  	"id": 18,
+			"name": "Dream Stories",
+		"imageUrl": "https://i.pinimg.com/564x/ab/da/d0/abdad0093bcad8990298697787e2ba05.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/194/5dcf1264b781c.mp3",
+		"duration": "00:30:55",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "Relax and fall asleep while exploring a prehistoric land."
+	  },
+	  {
+	  	"id": 19,
+			"name": "StoryDrone",
+		"imageUrl": "https://i.pinimg.com/564x/e4/27/51/e427512937620eb880b4d36132f4cd7d.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/193/5dcb21b994350.mp3",
+		"duration": "00:30:42",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "Venture to a cozy cabin in the woods surrounded by a calming fog."
+	  },
+	  {
+	  "id": 20,
+			"name": "Soundscapes",
+		"imageUrl": "https://i.pinimg.com/564x/f1/db/4e/f1db4ee1485bf2e98372d97a60928be1.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/192/5dc5d35e88101.mp3",
+		"duration": "01:03:30",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/6/59d7eddc41405.mp3",
+		"description": "Pick a relaxing soundscape, and layer on some of our standard background effects to create the perfect sonic environment for sleep."
+	  },
+	  {
+	  "id": 21,
+			"name": "Sleep Meditations",
+		"imageUrl": "https://i.pinimg.com/564x/32/c7/e0/32c7e09b686f6911ef379302a5b2c1e5.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/191/5dc090ae0e97f.mp3",
+		"duration": "00:30:21",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "Powerfully relaxing meditations designed to help you fall asleep quickly and easily."
+	  },
+	  {
+	  "id": 22,
+		"name": "The Allotment Keeper",
+		"imageUrl": "https://https://i.pinimg.com/564x/fe/92/38/fe9238410715f5f2bd08d9898a21a5e5.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/190/5dbb04e858249.mp3",
+		"duration": "00:25:41",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/5/59935316ebefc.mp3",
+		"description": "Find peace and relaxation in the pleasure of a simple hobby."
+	  },
+	  {
+	  "id": 23,
+		"name": "The Magic Hut",
+		"imageUrl": "https://i.pinimg.com/564x/46/db/f4/46dbf4737469043877b0e027dd2fb5b0.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/189/5db343466e415.mp3",
+		"duration": "00:27:20",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/8/599354e32b971.mp3",
+		"description": "A special cat leads you to an unusual home."
+	  },
+	  {
+	  "id": 24,
+		"name": "The Jack O'Lantern Maze",
+	  "imageUrl": "https://i.pinimg.com/564x/b2/95/e8/b295e89268a916750d2201d965cb6f4d.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/188/5db0831402df1.mp3",
+		"duration": "00:28:27",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/5/59935316ebefc.mp3",
+		"description": "Take a relaxing stroll on a crisp, fall evening to see the jack-o'-lantern maze. "
+	  },
+	  {
+	  "id": 25,
+		"name": "Ariel and the Ocean",
+	  "imageUrl": "https://i.pinimg.com/564x/17/f3/1c/17f31ca0c77721298e4e9e9e6a320146.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/187/5daa03b671fa7.mp3",
+		"duration": "00:36:17",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/5/59935316ebefc.mp3",
+		"description": "A marine scientist discovers an underwater world, previously known only in fairytales."
+	  },
+	  {
+	  "id": 26,
+		"name": "The Bremen Bedtime Musicians",
+	  "imageUrl": "https://i.pinimg.com/564x/10/a8/c0/10a8c041b90aef6e160bf2aac779f81e.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/186/5da5ec5c01fdf.mp3",
+		"duration": "00:38:35",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "A sleepy re-telling of an old fairytale about the world's most famous animal musicians."
+	  },
+	  {
+	  "id": 27,
+		"name": "Nature",
+	  "imageUrl": "https://i.pinimg.com/564x/4f/31/1d/4f311d522a927389d6732910d6a19444.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/185/5da0d9e6d2f89.mp3",
+		"duration": "01:08:43",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/6/59d7eddc41405.mp3",
+		"description": "From the birds of Yosemite to the mighty sequoia tree, these relaxing readings will lull you into a deep, natural slumber. "
+	  },
+	  {
+	  "id": 28,
+			"name": "Rocky Mountain Rivulet",
+	  "imageUrl": "https://i.pinimg.com/564x/49/0d/cd/490dcd0a6072aeee34e49993b89c9a19.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/184/5d9cd308ae23f.mp3",
+		"duration": "01:01:53",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/8/599354e32b971.mp3",
+		"description": "Snow melts to form a gentle stream in a secluded mountain meadow."
+	  },
+	  {
+	  "id": 29,
+			"name":"A California Train Journey ",
+	  "imageUrl": "https://i.pinimg.com/564x/ca/0e/1a/ca0e1ab6c90ad9372fd0cf1ad57e0e59.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/183/5d8e644d44a59.mp3",
+		"duration": "00:37:29",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "A private cabin in the sleeper car awaits you on this adventure up the California coast."
+	  },
+	  {
+	  "id": 30,
+		"name": "The Sleepless Princess",
+	  "imageUrl": "https://i.pinimg.com/564x/c2/80/71/c280710cf3aab3466b4fd6a0239fd27a.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/182/5d8a42bac35db.mp3",
+		"duration": "00:35:27",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "A princess who can't fall asleep longs to dream."
+	  },
+	  {
+	  "id": 31,
+		"name": "The Tree Meditation",
+	  "imageUrl": "https://i.pinimg.com/564x/03/67/06/036706cdb8516d6f1a0bb6ebb19a7951.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/181/5d851c4ed5dd3.mp3",
+		"duration": "01:26:07",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "Relax and fall asleep under an old and majestic tree."
+	  },
+	  {
+	  "id": 33,
+	  "name": "The Night Garden",
+		"imageUrl": "https://i.pinimg.com/564x/e4/a3/e0/e4a3e037c29c9ec569430e2c0e58c9e8.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/180/5d812f0654b9b.mp3",
+		"duration": "00:24:28",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/5/59935316ebefc.mp3",
+		"description": "Take a visit to the Night Garden.  Get cozy along with the animals that live there."
+	  },
+	  {
+	  "id": 34,
+	  "name": "Guided Towards Sleep",
+		"imageUrl": "https://i.pinimg.com/564x/2b/cd/15/2bcd15c7af2a62c3823c2f4242463c68.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/179/5d7a8d3331168.mp3",
+		"duration": "00:21:50",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/6/59d7eddc41405.mp3",
+		"description": "Using progressive relaxation techniques, this meditation will quickly lead you to sleep and relaxation."
+	  },
+	  {
+	  "id": 35,
+	  "name": "The Glassblower's Apprentice",
+		"imageUrl": "https://i.pinimg.com/564x/96/bc/d1/96bcd117e6aeb48f75ebc32eee4c45f9.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/178/5d76abb0e4400.mp3",
+		"duration": "00:38:30",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "A modern re-telling of the classic fairytale Cinderella."
+	  },
+	  {
+	  "id": 36,
+	  "name":  "Down the Rabbit Hole",
+		"imageUrl": "https://i.pinimg.com/564x/60/a4/06/60a406f9c512491547975a20b4404aa8.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/177/5d728c312a1b0.mp3",
+		"duration": "00:22:28",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "A girl finds a secret passageway to a long lost world."
+	  },
+	  {
+	  "id": 37,
+	  "name": "The History of Tea",
+		"imageUrl": "https://i.pinimg.com/564x/1e/c1/57/1ec15782c8d3a53ede33fcacc3d0ed9b.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/176/5d695b97c5149.mp3",
+		"duration": "00:58:13",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/8/599354e32b971.mp3",
+		"description": "Fall asleep learning about the world's most relaxing beverage."
+	  },
+	  {
+	  "id": 38,
+	  "name": "The Infinite Dream",
+		"imageUrl": "https://i.pinimg.com/564x/a6/cc/8f/a6cc8f362542ecbb0dbb5420aea8142a.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/175/5d66cb67933a3.mp3",
+		"duration": "00:33:52",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/6/59d7eddc41405.mp3",
+		"description": "Discover the unexpected, as you travel through the world of dreams."
+	  },
+	  {
+	  "id": 39,
+	  "name": "The Hidden Cove",
+		"imageUrl": "https://i.pinimg.com/564x/58/aa/79/58aa799cd9edefe88d7e97dc76f63799.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/174/5d60441248807.mp3",
+		"duration": "00:58:51",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "Gentle waves, birds, and bamboo chimes await in this secret, sleepy escape."
+	  },
+	  {
+	  "id": 40,
+	  "name": "The Full Moon Festival",
+		"imageUrl": "https://i.pinimg.com/564x/29/da/5b/29da5b21f50424ca4b72cd86f500b480.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/173/5d5d9339af8f3.mp3",
+		"duration": "00:26:12",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "Guided by the light of the full moon, a girl discovers a mysterious event."
+	  },
+	  {
+	  "id": 41,
+	  "name": "The Book of Knowledge",
+		"imageUrl": "https://i.pinimg.com/564x/a9/5e/83/a95e835e0c54e8ac6f19d984fbe034bb.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/172/5d545ced2b7ba.mp3",
+		"duration": "00:28:18",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/5/59935316ebefc.mp3",
+		"description": "Take a calm journey through the countryside to uncover the secrets of a long lost book. "
+	  },
+	  {
+	  "id": 42,
+	  "name":  "The Wonder of Ha Long Bay",
+		"imageUrl": "https://i.pinimg.com/564x/04/7a/22/047a22fbc55985a2cedb0226f396b3af.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/171/5d4c7841eb2bc.mp3",
+		"duration": "00:36:37",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/6/59d7eddc41405.mp3",
+		"description": "Embark on a relaxing boat tour through Ha Long Bay, in Vietnam."
+	  },
+	  {
+	  "id": 43,
+	  "name":  "The Lighthouse",
+		"imageUrl": "https://i.pinimg.com/564x/e0/0b/ee/e00beeba551f61e29dc5161f62ae30d9.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/170/5d4475472d2bd.mp3",
+		"duration": "00:19:00",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/5/59935316ebefc.mp3",
+		"description": "Become the lighthouse keeper of your own mind as you drift into sleep."
+	  },
+	  {
+	  "id": 44,
+	  "name":  "Department Stores",
+		"imageUrl": "https://i.pinimg.com/564x/1b/ec/d7/1becd79c04da98d1289b184e298eda45.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/169/5d41c75f92a0f.mp3",
+		"duration": "00:47:45",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "Take a soothing stroll through the history of retail shopping. Dream of handbags and cuff links."
+	  },
+	  {
+	  "id": 45,
+	  "name":  "Trix on the Dallas Ranch",
+		"imageUrl": "https://i.pinimg.com/564x/bd/a6/8d/bda68d75386e4a5e1080c43dddfd65d0.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/168/5d3b58c5880c4.mp3",
+		"duration": "00:26:03",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "A suburban girl moves to the country and makes a special furry friend."
+	  },
+	  {
+	  "id": 46,
+	  "name":  "The Tea Plantation",
+		"imageUrl": "https://i.pinimg.com/564x/b2/09/81/b209813521eccf085cbfee67fdcd3ea5.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/167/5d30aa12ecce4.mp3",
+		"duration": "00:26:45",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "A suburban girl moves to the country and makes a special furry friend."
+	  },
+	  {
+	  "id": 47,
+	  "name":  "The Country Walk",
+		"imageUrl": "https://i.pinimg.com/564x/e9/6e/3f/e96e3f6e8c24f4c384a21be93f508c86.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/166/5d2775c821704.mp3",
+		"duration": "00:20:51",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "Walk along an old country path.  Feel the breeze in your hair."
+	  },
+	  {
+	  "id": 48,
+	  "name":  "The Ferry to Shackleford",
+		"imageUrl": "https://i.pinimg.com/564x/71/a5/91/71a591debfb179eead09e2c4c843f24a.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/165/5d2771b808fe9.mp3",
+		"duration": "01:01:50",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "Enjoy the sounds of a ferry ride along the Outer Banks of North Carolina."
+	  },
+	  {
+	  "id": 49,
+	  "name":  "Gold in the Hills",
+		"imageUrl": "https://i.pinimg.com/564x/7c/1e/41/7c1e41b5cbeca78ee4e765dccf9df5e7.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/164/5d1f7ecbd626e.mp3",
+		"duration": "00:29:27",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/8/599354e32b971.mp3",
+		"description": "Enjoy the sounds of a ferry ride along the Outer Banks of North Carolina."
+	  },
+	  {
+	  "id": 50,
+	  "name":  "The Dream Meditation",
+		"imageUrl": "https://i.pinimg.com/564x/1e/99/70/1e9970106a1f2c9d25d31104a9eb6c68.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/163/5d1cfe63e9899.mp3",
+		"duration": "00:16:29",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "Relax your body and prepare your mind for a night of pleasant dreams."
+	  },
+	  {
+	  "id": 51,
+	  "name":  "Ancient Egypt",
+		"imageUrl": "https://i.pinimg.com/564x/da/4b/f5/da4bf5ea308dbf5a563f81a0dc28e188.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/162/5d16743284eb4.mp3",
+		"duration": "00:50:18",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "Relax and immerse yourself in the history and culture of an ancient civilization. "
+	  },
+	  {
+	  "id": 52,
+	  "name":  "Rapunzel",
+		"imageUrl": "https://i.pinimg.com/564x/1f/c7/62/1fc762f036966256b37703ac9876cd38.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/161/5d13bf043e010.mp3",
+		"duration": "00:28:17",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/5/59935316ebefc.mp3",
+		"description": "Curl up with this sleepy retelling of the classic fairy tale."
+	  },
+	  {
+	  "id": 53,
+	  "name":  "The Camping Trip",
+		"imageUrl": "https://i.pinimg.com/564x/7e/53/c6/7e53c6de15f2dc2a0d5a89f4f74b6e38.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/160/5d0cfae8bde2e.mp3",
+		"duration": "00:20:42",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "Connect with nature on a solo hike through the forest."
+	  },
+	  {
+	  "id": 54,
+	  "name":  "Cave Art",
+		"imageUrl": "httphttps://i.pinimg.com/564x/09/d1/46/09d1461a131d1fce68086371282d7350.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/159/5d09283cebbee.mp3",
+		"duration": "00:43:48",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "Explore the history of prehistoric cave art, while you drift off to sleep."
+	  },
+	  {
+	  "id": 55,
+	  "name":  "Down the Mississippi",
+		"imageUrl": "https://i.pinimg.com/564x/3d/52/2c/3d522c081d2c1587fb2a910948ee10df.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/158/5d014cdce1fdb.mp3",
+		"duration": "00:27:54",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/8/599354e32b971.mp3",
+		"description": "Take a relaxing voyage on an old paddle-wheeler as it drifts down the Mississippi river."
+	  },
+	  {
+	  "id": 56,
+	  "name":  "300 Deep Sleep Affirmations",
+		"imageUrl": "https://i.pinimg.com/564x/ab/9f/a8/ab9fa82476aac85763c714e15deb1c00.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/157/5cf15908df2e1.mp3",
+		"duration": "01:03:41",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/6/59d7eddc41405.mp3",
+		"description": "Develop a positive mindset and wind down with these affirmations to encourage restful sleep."
+	  },
+	  {
+	  "id": 57,
+	  "name":  "The Venetian Lagoon",
+		"imageUrl": "https://i.pinimg.com/564x/76/e1/d3/76e1d3e6c5dbbe5d6073b6e299266257.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/156/5ce839663836c.mp3",
+		"duration": "00:27:05",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "Sit back and relax as you experience the vibrant sights, places, and history of Venice, Italy."
+	  },
+	  {
+	  "id": 58,
+	  "name":  "The Airplane Cabin",
+		"imageUrl": "https://i.pinimg.com/564x/90/4f/a2/904fa2fa3a43e54fc50f5e996d4545d5.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/155/5ce838b736038.mp3",
+		"duration": "01:03:50",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/6/59d7eddc41405.mp3",
+		"description": "We've dimmed the cabin lights. Fall asleep aboard a trans-Atlantic flight."
+	  },
+	  {
+	  "id": 59,
+	  "name":  "The Castle Gardens",
+		"imageUrl": "https://i.pinimg.com/564x/f4/5e/2f/f45e2f4424084252ea830d00e1b27b7f.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/154/5cdf14bac93dd.mp3",
+		"duration": "00:25:05",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "Enjoy a leisurely stroll through the exquisite gardens of Hever Castle."
+	  },
+	  {
+	  "id": 60,
+	  "name":  "Ancient Machine",
+		"imageUrl": "https://i.pinimg.com/564x/69/c1/7a/69c17a29f0b212717745357fec7004dd.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/153/5cdf0f2488505.mp3",
+		"duration": "00:24:34",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/5/59935316ebefc.mp3",
+		"description": "Embark on a journey to remote ancient ruins and uncover the long-lost knowledge hidden within."
+	  },
+	  {
+	  "id": 61,
+	  "name":  "Peace and Quiet",
+		"imageUrl": "https://i.pinimg.com/564x/e0/d8/64/e0d864dcfe33e7962cbd66866c604bf5.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/152/5cd4867e06831.mp3",
+		"duration": "00:29:49",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/5/59935316ebefc.mp3",
+		"description": "Embark on a guided meditative journey towards peace, quiet, and sleep."
+	  },
+	  {
+	  "id": 62,
+	  "name":  "Dreams of Austria",
+		"imageUrl": "https://i.pinimg.com/564x/4e/23/48/4e23482c07935f92b4e73b2e216b27cb.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/151/5cc9e879d7125.mp3",
+		"duration": "00:22:08",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "Spend a relaxing afternoon on an Austrian hillside."
+	  },
+	  {
+	  "id": 63,
+	  "name":  "Night Train",
+		"imageUrl": "https://i.pinimg.com/564x/26/80/f5/2680f593fbad59650b5b2bb447e4e8fe.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/150/5cae4b82571b2.mp3",
+		"duration": "00:28:17",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/6/59d7eddc41405.mp3",
+				"description": "A tired hiker makes a very relaxing discovery."
+	  },
+	  {
+	  "id": 64,
+	  "name":  "Rustling Bamboo",
+		"imageUrl": "https://i.pinimg.com/564x/63/6f/a8/636fa823001d01d0d4258db27f19e28a.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/149/5ca79c9153db3.mp3",
+		"duration": "00:51:12",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "A bamboo forest rustles in the wind near a secluded beach in Bali."
+	  },
+	  {
+	  "id": 65,
+	  "name": "Moonlight Kingdom",
+		"imageUrl": "https://i.pinimg.com/564x/9d/de/8d/9dde8d63d68eb9192c3447c387bb0da2.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/148/5c9e67c5ad9e8.mp3",
+		"duration": "00:48:58",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "A powerful guided meditation by moonlight.  Positive affirmations for sleep. "
+	  },
+	  {
+	  "id": 66,
+	  "name": "Underground River",
+		"imageUrl": "https://i.pinimg.com/564x/82/65/29/826529025068c465eda8af2a48b1f52c.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/147/5c95317d2edcc.mp3",
+		"duration": "00:25:05",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "Where will this underground river lead? "
+	  },
+	  {
+	  "id": 67,
+	  "name": "Swimming With Dolphins",
+		"imageUrl": "https://i.pinimg.com/564x/90/3d/53/903d532112b7df66a9e4afcd4fe84f1d.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/146/5c8aa49478a8f.mp3",
+		"duration": "00:25:30",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/5/59935316ebefc.mp3",
+		"description": "Follow along as Evie fulfills a lifelong dream. "
+	  },
+	  {
+	  "id": 68,
+	  "name": "Awaken to a Clean Slate",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/145/5c81774df1fb8.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/145/5c81774df20f9.mp3",
+		"duration": "00:27:46",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "Fall into a deep, healing sleep.  Wake refreshed and renewed. "
+	  },
+	  {
+	  "id": 69,
+	  "name": "Sunshine House",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/144/5c76e080acf2a.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/144/5c76e080acfe5.mp3",
+		"duration": "00:26:16",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "To find the Sunshine House, you must truly believe. Emily believes."
+	  },
+	  {
+	  "id": 70,
+	  "name": "Volcano Island",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/143/5c6729b5271c5.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/143/5c6729b5272a5.mp3",
+		"duration": "00:58:59",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "The night watchman at a museum discovers a portal to an ancient world. "
+	  },
+	  {
+	  "id": 71,
+	  "name": "The Stars of Tekapo",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/142/5c58a36738bea.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/142/5c58a36738ca6.mp3",
+		"duration": "00:20:46",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/8/599354e32b971.mp3",
+		"description": "Take a stroll along the banks of the majestic Lake Tekapo, on the South Island of New Zealand."
+	  },
+	  {
+	  "id": 72,
+	  "name": "Soothing Box Fan",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/141/5c589e5358de2.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/141/5d68054fef2af.mp3",
+		"duration": "00:58:06",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "Cool off to the sleep-inducing rumble of an industrial box fan."
+	  },
+	  {
+	  "id": 73,
+	  "name": "Footprints In The Snow",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/140/5c48afc8892a5.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/140/5c48afc8893c6.mp3",
+		"duration": "00:22:27",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "In the snowy arctic, Mary follows the clues and discovers something magical."
+	  },
+	  {
+	  "id": 74,
+	  "name": "Bear Creek",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/139/5c3cf71a9cdb5.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/139/5c3cf71a9cec5.mp3",
+		"duration": "00:47:12",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/8/599354e32b971.mp3",
+		"description": "The hammock is ready on the banks of Bear Creek.  Relax to the soothing binaural sound of slow water flowing over smooth rock."
+	  },
+	  {
+	  "id": 75,
+	  "name": "Long Drive",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/138/5c34ede0f0499.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/138/5c34ede0f0588.mp3",
+		"duration": "00:24:11",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/5/59935316ebefc.mp3",
+		"description": "Take a relaxing road trip to a secluded mountain cabin. "
+	  },
+	  {
+	  "id": 76,
+	  "name": "Loving Kindness for Sleep",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/137/5c251288bc989.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/137/5c251288bca5b.mp3",
+		"duration": "00:41:23",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "Fill your heart with the intention of loving kindness. Drift into a contented slumber."
+	  },
+	  {
+	  "id": 77,
+	  "name": "Pony Paddock",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/136/5c0ad4ecb3828.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/136/5cd1cba086b95.mp3",
+		"duration": "00:22:41",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "Follow the old wooden fence through a peaceful pasture. "
+	  },
+	  {
+	  "id": 78,
+	  "name": "Bird-watcher",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/135/5c0056c98771b.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/135/5c0056c987821.mp3",
+		"duration": "00:29:42",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/5/59935316ebefc.mp3",
+		"description": "A bird-watcher takes a mysterious journey.  Fall gently asleep and dream of flying."
+	  },
+	  {
+	  "id": 79,
+	  "name": "Total Relaxation",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/134/5bf4732e6d255.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/134/5bf4732e6d334.mp3",
+		"duration": "00:43:26",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "Christian leads you on a long, peaceful visualization for total relaxation."
+	  },
+	  {
+	  "id": 80,
+	  "name": "Valley of Steam",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/133/5be749e5d9458.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/133/5be749e5d951a.mp3",
+		"duration": "00:21:40",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/6/59d7eddc41405.mp3",
+		"description": "Let's take a relaxing journey through meandering paths, to the soothing hot springs of Reykjadalur Iceland."
+	  },
+	  {
+	  "id": 81,
+	  "name": "De-stress by the Fire",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/132/5bd88cfd53e3d.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/132/5bd88cfd53f12.mp3",
+		"duration": "00:33:23",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/5/59935316ebefc.mp3",
+		"description": "Learn to understand and process internal stress. Let the warm fire relax and soothe."
+	  },
+	  {
+	  "id": 82,
+	  "name": "Forgotten Abbey",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/131/5bce2220845c3.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/131/5bce2220846ee.mp3",
+		"duration": "00:57:23",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/8/599354e32b971.mp3",
+		"description": "Explore the ruins of an 800-year-old Abbey.  Fall into a deep, tranquil sleep. "
+	  },
+	  {
+	  "id": 83,
+	  "name": "Where Do Birds Sleep?",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/130/5bbe61f97f11d.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/130/5bbe61f97f235.mp3",
+		"duration": "00:20:37",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "Discover the secret nocturnal habits of birds.  Drift off like a sparrow in a hawthorn bush."
+	  },
+	  {
+	  "id": 84,
+	  "name":  "Ready for Winter",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/129/5babd8c9753ce.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/129/5babd8c97549d.mp3",
+		"duration": "00:29:51",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "Follow along as we visit some curious animals diligently preparing for hibernation.  "
+	  },
+	  {
+	  "id": 85,
+	  "name":  "Secret in the Savanna",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/127/5b981ee9650c7.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/127/5b981ee9651ac.mp3",
+		"duration": "00:41:22",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "A long walk in a savanna leads to a secret underground discovery."
+	  },
+	  {
+	  "id": 86,
+	  "name":   "Cora's Perfect Day",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/126/5b8ee0035f1e3.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/126/5b8ee0035f282.mp3",
+		"duration": "00:29:39",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/8/599354e32b971.mp3",
+		"description": "Cora, a Golden Labrador, enjoys the simple pleasures of life.  And you're invited."
+	  },
+	  {
+	  "id": 87,
+	  "name":   "Starship Sleeping Quarters",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/125/5b8edeae6ad6d.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/125/5b8edeae6ae40.mp3",
+		"duration": "00:51:55",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "Drift off to sleep in your cozy cabin aboard an interstellar spaceship."
+	  },
+	  {
+	  "id": 88,
+	  "name":   "Life on Mars",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/124/5b8461ccc1903.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/124/5b8461ccc19ce.mp3",
+		"duration": "00:24:13",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "A man explores the Martian landscape and makes a discovery."
+	  },
+	  {
+	  "id": 89,
+	  "name": "Relaxing Train Journey",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/123/5b7b121cec88a.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/123/5b7b121cec98c.mp3",
+		"duration": "00:33:26",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "This calming sleep meditation takes you on a nighttime journey to a restful slumber."
+	  },
+	  {
+	  "id": 90,
+	  "name":  "A Summer Snowfall",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/122/5b7053115dfe5.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/122/5b7053115e0cc.mp3",
+		"duration": "00:27:03",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/6/59d7eddc41405.mp3",
+		"description": "A princess gets her wish on a warm summer night."
+	  },
+	  {
+	  "id": 91,
+	  "name":  "Mountain Castle",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/121/5b68b0e165268.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/121/5b68b0e165337.mp3",
+		"duration": "00:57:17",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "An hour long Dream Story. Explore the mysteries hidden in an old, sleepy, castle."
+	  },
+	  {
+	  "id": 92,
+	  "name":  "Where My Heart Lies",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/120/5b5f8126eecfd.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/120/5b5f8126eedd3.mp3",
+		"duration": "00:23:28",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "Take a ferry to the Greek island of Symi.  Meet the people and relax by the cool, blue water.\r\n\r\nWritten by Samantha Priestley."
+	  },
+	  {
+	  "id": 93,
+	  "name":   "Healing Rain ",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/119/5b56324c895b4.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/119/5b56324c89684.mp3",
+		"duration": "00:25:31",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "A sleep meditation that washes away tension, stress, and worry.  Wake renewed and refreshed. "
+	  },
+	  {
+	  "id": 94,
+	  "name": "Hot Air Balloon",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/118/5b4cf891cbb0c.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/118/5b4cf891cbc2c.mp3",
+		"duration": "00:23:05",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "A guided meditation for deep sleep and relaxation. Float along and dream."
+	  },
+	  {
+	  "id": 95,
+	  "name":  "Magical Book",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/117/5b4ce1b3e2395.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/117/5b4ce1b3e2472.mp3",
+		"duration": "00:21:34",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/6/59d7eddc41405.mp3",
+		"description": "A trip to the library turns into a sleepy adventure. "
+	  },
+	  {
+	  "id": 96,
+	  "name":  "A Tranquil Tour of Tuscany",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/116/5b439a18c7d5b.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/116/5b439a18c7e2e.mp3",
+		"duration": "00:25:23",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "Take a sleep inducing trip through the serene Italian countryside. "
+	  },
+	  {
+	  "id": 97,
+	  "name":  "Yoga Nidra for Deep Sleep",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/115/5b33eeec0b379.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/115/5b33eeec0b454.mp3",
+		"duration": "00:38:56",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/8/599354e32b971.mp3",
+		"description": "Reduce stress and induce deep relaxation with this Yoga Nidra sleep meditation."
+	  },
+	  {
+	  "id": 98,
+	  "name":  "The River Raft",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/114/5b27ff6ed2f0e.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/114/5b27f9d97c212.mp3",
+		"duration": "00:25:30",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "Catrina discovers a handmade raft near her mountain cabin.  Fall asleep and dream of fireflies."
+	  },
+	  {
+	  "id": 99,
+	  "name":  "The Return Flight",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/113/5b1eb9d07e5ea.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/113/5b1eb9d07e6a4.mp3",
+		"duration": "00:30:35",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "Follow the spectacular route of a flock of British barn swallows on their migration from South Africa to the East of England."
+	  },
+	  {
+	  "id": 100,
+	  "name":  "Dragon in the Cave",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/112/5b16ccc7158b0.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/112/5b16ccc71597e.mp3",
+		"duration": "00:29:16",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/6/59d7eddc41405.mp3",
+		"description": "A prince hunts a dragon on a snowy night in the kingdom."
+	  },
+	  {
+	  "id": 101,
+	  "name":  "Elements of Sleep",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/111/5b0f0af902370.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/111/5b0f0af90243d.mp3",
+		"duration": "00:39:48",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "Start with slow breathing.  Explore the five elements as you drift off."
+	  },
+	  {
+	  "id": 102,
+	  "name":  "Lost Scroll",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/110/5b04836ff3c8f.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/110/5b04836ff3d4b.mp3",
+		"duration": "00:57:43",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "Discover a prehistoric world. Dream of dinosaurs and waterfalls."
+	  },
+	  {
+	  "id": 103,
+	  "name":  "Each Corner of the House",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/109/5afa4cf26a76c.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/109/5afa4cf26a826.mp3",
+		"duration": "00:33:45",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "With a hand drawn map to guide her, Catherine explores her boyfriend's childhood home in the countryside. "
+	  },
+	  {
+	  "id": 104,
+	  "name":  "Princess's Horse Ride",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/108/5af0a1e8e2897.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/108/5af0a1e8e296d.mp3",
+		"duration": "00:17:08",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/5/59935316ebefc.mp3",
+		"description": "The princess takes her horse on a moonlit journey."
+	  },
+	  {
+	  "id": 105,
+	  "name": "Caterpillar's Transformation",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/107/5ae783879bedf.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/107/5ae783879bf83.mp3",
+		"duration": "00:15:34",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/7/59935499c1543.mp3",
+		"description": "A caterpillar discovers the joy of change and transformation."
+	  },
+	  {
+	  "id": 106,
+	  "name":  "Crafting with Wood and Glass",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/106/5ae7791baa40b.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/106/5ae7791baa4f5.mp3",
+		"duration": "00:25:40",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/8/599354e32b971.mp3",
+		"description": "A sleepy reading from a series of fascinating essays detailing the use of woods and glass in the construction of fine furniture and art.\r\n\r\nExcerpts from 1983's \"Arts and Crafts Essays\" by the Arts and Crafts Exhibition Society. Read for Librivox by Peter Yearsley, end edited for sleep by Slumber."
+	  },
+	  {
+	  "id": 107,
+	  "name": "Down in the Submarine",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/105/5adcf88191243.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/105/5adcf88191317.mp3",
+		"duration": "00:53:37",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/9/5a2c66fb91cce.mp3",
+		"description": "Take a long journey down the side of an underwater cliff.  Drift comfortably asleep."
+	  },
+	  {
+	  "id": 108,
+	  "name": "Connect With Sleep",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/104/5ad3a380485d7.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/104/5ad3a380486c5.mp3",
+		"duration": "00:28:51",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/6/59d7eddc41405.mp3",
+		"description": "Tune into your senses and calm the mind. Connect with sleep."
+	  },
+	  {
+	  "id": 109,
+	  "name": "Asleep In The Rainforest",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/103/5acae6b946814.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/103/5acae6b94690b.mp3",
+		"duration": "00:20:32",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/8/599354e32b971.mp3",
+		"description": "Join us on a trip to an exotic rainforest. Find a cool, calm place to relax."
+	  },
+	  {
+	  "id": 110,
+	  "name":  "Dreams of Grasmere",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/102/5ac240d434691.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/102/5ac112c92124c.mp3",
+		"duration": "00:36:56",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/5/59935316ebefc.mp3",
+		"description": "Tucked in the Lake District of Northern England, take a relaxing journey through the sleepy village of Grasmere.\r\n\r\nWritten by Samantha Priestley."
+	  },
+	  {
+	  "id": 111,
+	  "name": "Switching Off",
+		"imageUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/101/5ab94a7ee43ec.jpg",
+		"audioUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/episode/101/5ab94a7ee44e8.mp3",
+		"duration": "00:31:12",
+		"musicUrl": "https://slumber.nyc3.cdn.digitaloceanspaces.com/music/6/59d7eddc41405.mp3",
+		"description": "Switch off your mind and body. Enjoy a restful slumber."
+	  }
+	  ]
+	  
+}
